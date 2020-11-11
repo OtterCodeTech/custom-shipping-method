@@ -7,7 +7,7 @@
  * @copyright  Copyright (c) 2020 OtterCode
  */
 
-namespace Vendor\CustomShipping\Model\Carrier;
+namespace OtterCode\CustomShipping\Model\Carrier;
 
 use Magento\Quote\Model\Quote\Address\RateRequest;
 use Magento\Shipping\Model\Carrier\AbstractCarrier;
