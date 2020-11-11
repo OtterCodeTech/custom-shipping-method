@@ -1,4 +1,13 @@
 <?xml version="1.0"?>
+<!--
+/**
+ * OtterCode_CustomShipping
+ *
+ * @category   OtterCode
+ * @package    OtterCode_CustomShipping
+ * @copyright  Copyright (c) 2020 OtterCode
+ */
+ -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
     <default>
         <carriers>

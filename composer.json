@@ -1,6 +1,14 @@
 {
     "name": "ottercode/custom-shipping",
     "description": "OtterCode Custom shipping module",
+    "authors": [
+        {
+            "name": "Antoni Cortés Cejas",
+            "email": "info@tonicort.es",
+            "homepage": "https://tonicort.es/",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "~7.2.0||~7.3.0||~7.4.0",
         "magento/framework": "102.0.*",
